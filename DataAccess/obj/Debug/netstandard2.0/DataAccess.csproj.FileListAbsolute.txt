@@ -1,0 +1,12 @@
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Enes\Desktop\Final\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
